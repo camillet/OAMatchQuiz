@@ -1,4 +1,4 @@
-# [Open Action Match Quiz](https://camillet.github.io/OAMatchQuiz/)
+# [Open Action Kit Match Quiz](https://camillet.github.io/OAMatchQuiz/)
   
  Modified by Camille Thomas 2017
   
