@@ -192,18 +192,26 @@
 
 <script type="text/javascript">
 	var quiz = new PersonalityQuizzer();
-	quiz.set("title","What Number are you?")
+	quiz.set("title","What Should I do for Open Access Week?")
 	quiz.addQuestion({ 
 		color: "#7FD863",
-		title: "Pick a Number",
+		title: "How much experience do you have working on open access week activities?",
 		answers: [
 			{ 
-				text: "One or Two",
-				result: [1,2]
+				text: "None",
+				result: 1
 			},
 			{ 
-				text: "Two",
+				text: "Low",
 				result: 2
+			},
+			{ 
+				text: "Medium",
+				result: 3
+			},
+			{ 
+				text: "High",
+				result: 4
 			},
 		]
 	});
